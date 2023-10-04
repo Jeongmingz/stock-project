@@ -1,3 +1,5 @@
+# https://lazyblue.tistory.com/9
+
 import win32com.client
 import pandas as pd
 from datetime import datetime
